@@ -1,6 +1,8 @@
 # NTP校时服务器
 
 一个功能完整的NTP（Network Time Protocol）校时服务器，支持从多个公共NTP服务器获取最新时间，并为客户端提供校时服务。
+![image](https://github.com/user-attachments/assets/995ef7ba-4b45-4261-9cf9-8630d7b45040)
+
 
 ## 功能特性
 
